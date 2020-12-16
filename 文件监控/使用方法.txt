@@ -1,0 +1,1 @@
+jiankong.py /var/www/html

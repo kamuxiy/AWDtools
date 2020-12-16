@@ -1,0 +1,11 @@
+https://www.centos.bz/2017/09/centos-6-%E9%80%9A%E8%BF%87iptables%E8%BF%9B%E8%A1%8C%E6%B5%81%E9%87%8F%E8%BD%AC%E5%8F%91/      //iptables-centos-进行流量转发
+http://rcoil.me/2017/06/CTF%E7%BA%BF%E4%B8%8B%E8%B5%9B%E6%80%BB%E7%BB%93/                                                     //ctf线下赛总结
+http://www.freebuf.com/articles/web/118149.html                                                                               //论如何在CTF比赛中搅“shi”freebuf
+https://www.cnblogs.com/nul1/p/8835264.html                                                                                   //网络攻防比赛PHP版本WAF
+http://www.chinacycc.com/thread-2693-1-1.html                                                                                 //别人的线下总结
+https://linux.cn/article-5595-1.html                                                                                          //如何在 Linux 上用 IP转发使内部网络连接到互联网
+http://s0ul.tk/?p=49                                                                                                         //PHP后门总结
+http://www.freebuf.com/column/146503.html                                                                                      //命令注入
+http://pwnable.kr/play.php                                                                                                     //pwn 练习
+https://bbs.ichunqiu.com/thread-12514-1-1.html                                                                                 //ichunqiu 内网代理
+https://xycsec.cn/?p=158                                                                                                       //超哥的比克
